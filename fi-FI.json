@@ -1,5 +1,5 @@
 {
-    "locale": "en-US",
+    "locale": "fi-FI",
     "strings": {
         "constants": {
             "1_map-palettes": "Perus/Maa|Luola (tummansininen)|Linna (harmaa)|Vesi (tummanvihreä)|Taivas (vaaleanvihreä)|Jää (vaaleansininen)|Tulivuori (punainen)|Kummitustalo (violetti)|Bonus (keltainen)|Ranta (vaaleanruskea)|Tähtimaa (pastellinsininen)|Metsä (mainen ruskea)",
@@ -10,47 +10,47 @@
                 "yes": "Kyllä",
                 "no": "Ei",
                 "close": "Sulje",
-                "download": "Lataa",
+                "download": "Lataa", #Download and load use the same word in Finnish. Could maybe be changed later.
                 "next": "Seuraava",
 				"confirm": "Vahvista",
                 "confirm-click": "Vahvista klikkaamalla uudelleen",
-                "proceed": "Jatka",
+                "proceed": "Jatka", #Also means 'to continue'.
 				"cancel": "Peru",
 				"play": "Pelaa",
-				"load": "Lataa",
+				"load": "Lataa", #See note for 'download'. 
                 "go-back": "Mene takaisin",
-                "delete": "Poista",
+                "delete": "Tuhoa", #Translates to 'destroy'. Delete and remove use the same word in Finnish.
                 "rename": "Nimeä uudelleen",
-                "lock": "Lock",
-                "unlock": "Unlock",
-                "hide": "Hide",
-                "view": "View",
-                "create": "Create",
-                "edit": "Edit",
-                "remove": "Remove",
-                "exit": "Exit",
-                "editor": "Editor",
-                "click-configure": "Click to configure"
+                "lock": "Lukitse",
+                "unlock": "Epälukitse", #The more accurate translation 'Avaa' also means 'open' (verb), which could cause misunderstandings.
+                "hide": "Piilota",
+                "view": "Näytä",
+                "create": "Luo",
+                "edit": "Muokkaa",
+                "remove": "Poista", #See note for 'delete'.
+                "exit": "Poistu",
+                "editor": "Kentäntekijä", #Translates to 'Level maker'.
+                "click-configure": "Määritä klikkaamalla."
             },
             "time": {
                 "days": {
-                    "one": "day",
-                    "other": "days"
+                    "one": "päivä",
+                    "other": "päivää"
                 },
                 "hours": {
-                    "one": "hour",
-                    "other": "hours"
+                    "one": "tunti",
+                    "other": "tuntia"
                 },
                 "minutes": {
-                    "one": "minute",
-                    "other": "minutes"
+                    "one": "minuutti",
+                    "other": "minuuttia"
                 },
                 "seconds": {
-                    "one": "second",
-                    "other": "seconds"
+                    "one": "sekunti",
+                    "other": "sekuntia"
                 },
-                "ago": "ago",
-                "just-now": "Just now",
+                "ago": "sitten",
+                "just-now": "Juuri nyt",
                 "notation": "{0} {1}"
             },
             "words": {
