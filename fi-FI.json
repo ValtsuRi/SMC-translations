@@ -54,13 +54,13 @@
                 "notation": "{0} {1}" 
             },
             "words": {
-                "keyboard": "keyboard",
-                "controller": "controller",
-                "language": "language",
-                "characters": "characters",
-                "music": "music",
-                "decibels": "decibels",
-                "volume": "volume",
+                "keyboard": "näppäimistä",
+                "controller": "ohjain",
+                "language": "kieli",
+                "characters": "merkkiä",
+                "music": "musiikki",
+                "decibels": "desibeliä",
+                "volume": "äänenvoimakkuus", #Means volume as in how loud something is.
                 "frequency": "frequency",
                 "rotation": "rotation",
                 "movement": "movement",
