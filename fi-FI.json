@@ -10,26 +10,26 @@
                 "yes": "Kyllä",
                 "no": "Ei",
                 "close": "Sulje",
-                "download": "Lataa", #Download and load use the same word in Finnish. Could maybe be changed later.
+                "download": "Lataa",
                 "next": "Seuraava",
 				"confirm": "Vahvista",
                 "confirm-click": "Vahvista klikkaamalla uudelleen",
-                "proceed": "Jatka", #Also means 'to continue'.
+                "proceed": "Jatka",
 				"cancel": "Peru",
 				"play": "Pelaa",
-				"load": "Lataa", #See note for 'download'. 
+				"load": "Lataa",
                 "go-back": "Mene takaisin",
-                "delete": "Tuhoa", #Translates to 'destroy'. Delete and remove use the same word in Finnish.
+                "delete": "Tuhoa",
                 "rename": "Nimeä uudelleen",
                 "lock": "Lukitse",
-                "unlock": "Epälukitse", #The more accurate translation 'Avaa' also means 'open' (verb), which could cause misunderstandings.
+                "unlock": "Epälukitse",
                 "hide": "Piilota",
                 "view": "Näytä",
                 "create": "Luo",
                 "edit": "Muokkaa",
-                "remove": "Poista", #See note for 'delete'.
+                "remove": "Poista",
                 "exit": "Poistu",
-                "editor": "Kentäntekijä", #Translates to 'Level maker'.
+                "editor": "Kentäntekijä",
                 "click-configure": "Määritä klikkaamalla."
             },
             "time": {
@@ -60,7 +60,7 @@
                 "characters": "merkkiä",
                 "music": "musiikki",
                 "decibels": "desibeliä",
-                "volume": "äänenvoimakkuus", #Means volume as in how loud something is.
+                "volume": "äänenvoimakkuus",
                 "frequency": "frequency",
                 "rotation": "rotation",
                 "movement": "movement",
@@ -516,11 +516,11 @@
                 "keyhole": "Keyhole (goal)",
                 "pow-block": "POW Block",
                 "midway-gate": "Midway Gate",
-                "dolphin": "Dolphin",
-				"sideways-dolphin": "Sideways dolphin",
-                "bullet-bill-blaster": "Bullet Bill Blaster",
-                "cannon": "Cannon",
-                "torpedo-base": "Torpedo Base",
+                "dolphin": "Delfiini",
+				"sideways-dolphin": "Sivuttain oleva delfiini",
+                "bullet-bill-blaster": "Luoti-Lassen tykki",
+                "cannon": "Tykki",
+                "torpedo-base": "Torpedonlaukaisin",
                 "advanced-platform": "Advanced Platform",
                 "growing-vine": "Growing Vine",
                 "arrow-signpost": "Arrow Signpost",
@@ -540,7 +540,7 @@
                 "red-coin": "Red Coin",
                 "flame-pumpkin": "Flame Pumpkin",
                 "pepper": "Pepper",
-                "detached-bill-blaster": "Detached Bullet Bill Blaster",
+                "detached-bill-blaster": "Irrotettu Luoti-Lassen tykki",
 				"green-palace-switch": "Green Palace Switch",
                 "yellow-palace-switch": "Yellow Palace Switch",
                 "red-palace-switch": "Red Palace Switch",
@@ -555,7 +555,7 @@
 				"galoomba": "Galoomba",
 				"goombrat": "Goombrat",
 				"goombud": "Goombud",
-				"green-koopa": "Green Koopa Troopa",
+				"green-koopa": "Vihreä Konnasoturi",
 				"green-koopa-shell": "Green Koopa Shell",
 				"green-koopa-shell-moving": "Green Koopa Shell[s]Already moving",
 				"green-koopa-jumping": "Green Jumping Paratroopa",
